@@ -1,0 +1,6 @@
+{
+    "test-server":{
+        "zone":"asia-northeast1-a",
+        "type":"compute"
+    }
+}
